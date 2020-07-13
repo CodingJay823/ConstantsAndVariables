@@ -1,0 +1,2 @@
+# VariableNaming
+GW Exercise
